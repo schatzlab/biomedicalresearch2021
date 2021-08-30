@@ -1,6 +1,6 @@
 # EN.601.452 / AS.020.415 Computational Biomedical Research &amp; Advanced Biomedical Research
 Prof: [Michael Schatz](http://schatz-lab.org) (mschatz @ cs.jhu.edu) <br>
-TA: [Samantha Zarate]() (slzarate @ jhu.edu) <br>
+TA: [Samantha Zarate](https://slzarate.github.io/) (slzarate @ jhu.edu) <br>
 Class Hours: Monday + Wednesday @ 3:00 - 3:50p in Hodson 211 <br>
 Schatz Office Hours: By appointment <br>
 Zarate Office Hours: TBD and by appointment <br>
