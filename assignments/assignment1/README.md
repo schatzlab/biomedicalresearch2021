@@ -1,6 +1,6 @@
 ## Assignment 1: Chromosome Structures
 Assignment Date: Wednesday, Sept 1, 2021 <br>
-Due Date: Wednesday, Sept 8, 2021 @ 11:59pm <br>
+Due Date: Friday, Sept 10, 2021 @ 11:59pm <br>
 
 ### Assignment Overview
 
