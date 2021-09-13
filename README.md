@@ -3,7 +3,7 @@ Prof: [Michael Schatz](http://schatz-lab.org) (mschatz @ cs.jhu.edu) <br>
 TA: [Samantha Zarate](https://slzarate.github.io/) (slzarate @ jhu.edu) <br>
 Class Hours: Monday + Wednesday @ 3:00 - 3:50p in Hodson 211 <br>
 Schatz Office Hours: By appointment <br>
-Zarate Office Hours: TBD and by appointment <br>
+Zarate Office Hours: Wednesdays 4:00 - 5:00p via Zoom (link on Piazza) and by appointment <br>
 
 **The goal of this course is to prepare undergraduates to understand and perform state-of-the-art biomedical research.** This will be accomplished through three main components: (1) classroom-style lectures on cross cutting techniques for biomedical research focusing on data visualization, statistical inference, and scientific computing; (2) research presentations from distinguished faculty on their active research projects; and (3) a major research project to be performed under the mentorship of a JHU professor. Students will present their research during an in-class symposium at the end of the semester. Grading will be based on homework exercises, a midterm exam, a written research proposal, an interim research report, an oral research presentation, and a final research report.
 
@@ -14,7 +14,7 @@ Within the course, we will study the leading computational and quantitative appr
   - [Code academy's Intro to Unix](https://www.codecademy.com/en/courses/learn-the-command-line/lessons/environment/exercises/bash-profile)
   - [Rosalind Bioinformatics Programming in Python](http://rosalind.info/problems/locations/)
   - [Minimal Make](http://kbroman.org/minimal_make/)
-- Access to a Linux Machine, and/or Install Docker (Unfortuantely, even Mac will not work correctly for some programs)
+- Access to a Linux Machine, and/or Install Docker (Unfortunately, even Mac will not work correctly for some programs)
 
 ## Course Resources:
 - [Syllabus and Policies](https://github.com/schatzlab/biomedicalresearch2021/tree/master/policies)
