@@ -5,7 +5,7 @@ Due Date: Friday, Sept 10, 2021 @ 11:59pm <br>
 ### Assignment Overview
 
 In this assignment you will profile the overall structure of the genomes of several important species and then study human chromosome 22 in more detail.
-As a reminder, any questions about the assignment should be posted to [Piazza](http:s//piazza.com/jhu/fall2021/en601452).
+As a reminder, any questions about the assignment should be posted to [Piazza](https://piazza.com/jhu/fall2021/en601452).
 
 ### Question 1: Chromosome structures [10 pts]
 
