@@ -57,14 +57,14 @@ bowtie2 -x chr22 -1 sample/pair.1.fq -2 sample/pair.2.fq > sample.sam
 
 While running alignments, if you get an error `Warning: Exhausted best-first chunk memory for read XXXX; skipping read` increase the command-line parameter `--chunkmbs`.
 
-#### [FreeBayes](https://github.com/ekg/freebayes) - Small Variant Identification
+#### [FreeBayes](https://github.com/ekg/freebayes) - Small variant identification
 
 ```
 conda install freebayes
 freebayes -f chr22.fa sample.bam > sample.vcf
 ```
 
-#### [bcftools](https://samtools.github.io/bcftools/bcftools.html) - VCF Summarry
+#### [bcftools](https://samtools.github.io/bcftools/bcftools.html) - VCF summary
 
 ```
 conda install bcftools
@@ -73,7 +73,7 @@ bcftools stats filtered.vcf > stats.txt
 ```
 
 
-#### [BEDTools](http://bedtools.readthedocs.io/en/latest/) - Genome Arithmetic
+#### [BEDTools](http://bedtools.readthedocs.io/en/latest/) - Genome arithmetic
 
 Get bedtools from conda, if you haven't already.
 
