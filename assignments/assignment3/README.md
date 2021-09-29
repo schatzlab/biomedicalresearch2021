@@ -2,7 +2,7 @@
 Assignment Date: Monday, Sept. 27, 2021 <br>
 Due Date: Monday, Oct. 4, 2021 @ 11:59pm <br>
 
-Some of the tools you will need to use only run in a Unix environemnt. For this, you should use Docker. This Docker instance has these tools preinstalled: [https://github.com/mschatz/wga-essentials](https://github.com/mschatz/wga-essentials)
+Some of the tools you will need to use only run in a Unix environment. For this, you should use Docker. This Docker instance has these tools preinstalled: [https://github.com/mschatz/wga-essentials](https://github.com/mschatz/wga-essentials)
 
 ### Assignment Overview
 
