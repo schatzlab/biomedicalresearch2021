@@ -18,7 +18,7 @@ As a reminder, any questions about the assignment should be posted to [Piazza](h
 
 *Three friends, Ezra, Sabine, and Zeb go out to lunch together and, in discussing the menu, all realize that they all have a specific culinary preference. They believe the cause of this preference to be genetic. Can you identify what SNP causes this preference and what the preference is?*
 
-Download the read set from here: 
+Download the read set from here: [https://github.com/schatzlab/biomedicalresearch2021/tree/main/assignments/assignment4/input_files](https://github.com/schatzlab/biomedicalresearch2021/tree/main/assignments/assignment4/input_files)
 
 For this question, you may find this tutorial helpful: [http://clavius.bc.edu/~erik/CSHL-advanced-sequencing/freebayes-tutorial.html](http://clavius.bc.edu/~erik/CSHL-advanced-sequencing/freebayes-tutorial.html)
 
