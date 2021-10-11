@@ -12,7 +12,7 @@ As a reminder, any questions about the assignment should be posted to [Piazza](h
 
 ### Question 1. Hello World [5 pts]
 
-- Using [miniwdl](https://github.com/chanzuckerberg/miniwdl), develop a Hello World workflow that takes in a user's name (USER_NAME in string format) and outputs a file saying "Hello, USER_NAME!". Please submit your code as well as a screenshot of the window in which you run the code. **If you cannot successfully run miniwdl on your local computer, let us know as soon as possible so that we can provide an alternative.**
+- Using [miniwdl](https://github.com/chanzuckerberg/miniwdl), develop a Hello World workflow that takes in a user's name (`USER_NAME` in string format) and outputs a file saying `Hello, USER_NAME!`. Please submit your code as well as a screenshot of the window in which you run the code. **If you cannot successfully run miniwdl on your local computer, let us know as soon as possible so that we can provide an alternative.**
 
 ### Question 2. Identifying a Specific Variant [30 pts]
 
