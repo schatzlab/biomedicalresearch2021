@@ -2,7 +2,9 @@
 Assignment Date: Monday, Oct. 11, 2021
 Due Date: Monday, Oct. 18, 2021 @ 11:59pm 
 
-WDL workflows require Docker images. For this assignment, you should use this Docker image: [https://github.com/mschatz/wga-essentials](https://github.com/mschatz/wga-essentials)
+WDL workflows require Docker images. For this assignment, you should use this Docker image: [https://github.com/mschatz/wga-essentials](https://github.com/mschatz/wga-essentials).
+
+BWA-MEM2 is not installed on this Docker image. You can use [this Docker image](https://hub.docker.com/r/szarate/bwa-mem2) instead by using the command `docker pull szarate/bwa-mem2`.
 
 ### Assignment Overview
 
@@ -24,7 +26,7 @@ For this question, you may find this tutorial helpful: [http://clavius.bc.edu/~e
 
 To answer the following questions, use a WDL file to run the required tools. You should use one task per computational question. Please include your WDL file in your submission.
 
-- 2a. You are able to narrow down the SNP to a specific region in chromosome 11. Using BWA-MEM, align their FASTQ files to the provided reference file. How many reads does each file have and how many are successfully mapped? [Hint: Use `samtools flagstat`.]
+- 2a. You are able to narrow down the SNP to a specific region in chromosome 11. Using BWA-MEM, align their FASTQ files to the provided reference file. How many reads does each file have and how many are successfully mapped? [Hint: Use `samtools flagstat`.] Please note that BWA-MEM2 is not installed on the `wga-essentials` Docker image. You can use [this Docker image](https://hub.docker.com/r/szarate/bwa-mem2) instead (in the "runtime" field of the WDL task, list it as `szarate/bwa-mem2`).
 
 - 2b. How many SNPs and indels does each file have? [Hint: Sort the SAM file first. Then, call variants with `freebayes`. Summarize using `bcftools stats`.]
 
