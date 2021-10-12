@@ -1,6 +1,6 @@
 ## Assignment 3: Workflow Development and Variant Identification
-Assignment Date: Monday, Oct. 11, 2021 <br>
-Due Date: Monday, Oct. 18, 2021 @ 11:59pm <br>
+Assignment Date: Monday, Oct. 11, 2021
+Due Date: Monday, Oct. 18, 2021 @ 11:59pm 
 
 WDL workflows require Docker images. For this assignment, you should use this Docker image: [https://github.com/mschatz/wga-essentials](https://github.com/mschatz/wga-essentials)
 
@@ -14,7 +14,7 @@ As a reminder, any questions about the assignment should be posted to [Piazza](h
 
 - Using [miniwdl](https://github.com/chanzuckerberg/miniwdl), develop a Hello World workflow that takes in a user's name (`USER_NAME` in string format) and outputs a file saying `Hello, USER_NAME!`. Please submit your code as well as a screenshot of the window in which you run the code. **If you cannot successfully run miniwdl on your local computer, let us know as soon as possible so that we can provide an alternative.**
 
-### Question 2. Identifying a Specific Variant [30 pts]
+### Question 2. Identifying a Specific Variant [25 pts]
 
 *Three friends, Ezra, Sabine, and Zeb go out to lunch together and, in discussing the menu, all realize that they all have a specific culinary preference. They believe the cause of this preference to be genetic. Can you identify what SNP causes this preference and what the preference is?*
 
@@ -71,4 +71,3 @@ Get bedtools from conda, if you haven't already.
 ```
 conda install bedtools
 ```
-
