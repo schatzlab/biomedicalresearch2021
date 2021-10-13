@@ -1,4 +1,4 @@
-## Assignment 3: Workflow Development and Variant Identification
+## Assignment 4: Workflow Development and Variant Identification
 Assignment Date: Monday, Oct. 11, 2021
 Due Date: Monday, Oct. 18, 2021 @ 11:59pm 
 
