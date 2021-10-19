@@ -8,7 +8,7 @@ BWA-MEM2 is not installed on this Docker image. You can use [this Docker image](
 
 ### Assignment Overview
 
-In this assignment, you will gain familiarity with Workflow Development Language (WDL) and developing an end-to-end variant calling workflow on WDL using [miniwdl](https://github.com/chanzuckerberg/miniwdl).
+In this assignment, you will gain familiarity with Workflow Development Language (WDL) and developing an end-to-end variant calling workflow on WDL using [miniwdl](https://github.com/chanzuckerberg/miniwdl). If you are using a Mac, make sure to disable [gRPC FUSE for file sharing](https://github.com/chanzuckerberg/miniwdl/issues/145).
 
 As a reminder, any questions about the assignment should be posted to [Piazza](https://piazza.com/class/ksxxhnaqr2v6gz).
 
