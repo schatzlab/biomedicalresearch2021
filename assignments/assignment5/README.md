@@ -8,7 +8,7 @@ In this assignment, you will explore a couple of aspects of RNA-seq (with a smal
 
 **Make sure to show your work/code in your writeup!**
 
-As a reminder, post any questions about this assignment to [Piazza]https://piazza.com/class/ksxxhnaqr2v6gz).
+As a reminder, post any questions about this assignment to [Piazza](https://piazza.com/class/ksxxhnaqr2v6gz).
 
 #### Question 1. Time Series [20 pts]
 
