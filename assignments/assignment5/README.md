@@ -47,13 +47,13 @@ In [data1.txt](data1.txt) with 100,000 lines we provide an abstraction of RNA-se
 
 [This file](https://schatz-lab.org/teaching/exercises/rnaseq/rnaseq.2.pileup/rnaseq.2.pileup.tgz) contains a reference genome (`ecoli.fa`), a list of 100 genes of interest (`refgenes.ptt`), and paired-end RNA-seq reads collected from timepoint X for 1 <= X <= 10 (`tX.1.fq`, `tX.2.fq`). The reads are 50bp long from 200bp fragments with errors at a constant 2% error rate.
 
-- Question 3a. Implement [STAR](https://github.com/alexdobin/STAR) in a Docker image. Use [this Docker file](https://raw.githubusercontent.com/slzarate/bwa-mem2-docker/master/Dockerfile) as guidance. Note that STAR is available on [Conda](https://anaconda.org/bioconda/star). You will have to both build the Docker image and push it to [DockerHub](https://hub.docker.com/) (you will have to make a DockerHub account in order to do this). For more information on Docker, see [the documentation](https://docs.docker.com/engine/reference/commandline/cli/).
+- Question 3a. Implement [STAR](https://github.com/alexdobin/STAR) in a Docker image. Use [this Docker file](https://raw.githubusercontent.com/slzarate/bwa-mem2-docker/master/Dockerfile) as guidance. Note that STAR is available on [Conda](https://anaconda.org/bioconda/star). You will have to both build the Docker image and push it to [DockerHub](https://hub.docker.com/) (you will have to make a DockerHub account in order to do this). For more information on Docker, see [the documentation](https://docs.docker.com/engine/reference/commandline/cli/). Submit a link to your Docker image on DockerHub.
 
-- Question 3b. For each time point, align the reads to the genome using a WDL constructed around your Docker image. To run the WDL ten times, you can use a bash for loop. For more information about aligning using STAR, see [the documentation](https://raw.githubusercontent.com/alexdobin/STAR/master/doc/STARmanual.pdf).
+- Question 3b. For each time point, align the reads to the genome using a WDL constructed around your Docker image. To run the WDL ten times, you can use a bash for loop. For more information about aligning using STAR, see [the documentation](https://raw.githubusercontent.com/alexdobin/STAR/master/doc/STARmanual.pdf). For this question, submit your WDL code.
 
-- Question 3c. After alignment, and for each timepoint, use `samtools depth` to report coverage at each position. Compute average depth of each exon using your own code.
+- Question 3c. After alignment, and for each timepoint, use `samtools depth` to report coverage at each position. Using your own code, report coverage at each position and compute the average depth of each exon.
 
-- Question 3d. Merge depths into expression matrix. Display heatmap / timeseries, identify special genes.
+- Question 3d. Using your own code, merge the depths into an expression matrix (as seen in Question 1). Again, construct a heatmap of the expression matrix over the course of the time series. Identify and list any genes that seem special or otherwise stand out.
 
 ### Packaging
 
