@@ -41,7 +41,7 @@ In [data1.txt](data1.txt) with 100,000 lines we provide an abstraction of RNA-se
 
 - Question 2c. Do the same sampling experiment but sample 50000 rows each time. Again plot the mean vs. variance.
 
-- Question 2d. Is the variance greater in (a), (b), or (c)? What is the relationship between mean abundance and variance? Why?
+- Question 2d. Is the variance greater in (a), (b), or (c)? What is the relationship between mean abundance and variance? Why? How does the mean computed in each subsample compare to the true distribution in the full file?
 
 #### Question 3. Differential Expression [20 pts]
 
