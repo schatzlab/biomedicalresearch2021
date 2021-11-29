@@ -11,9 +11,9 @@ Wed 12/1 | 3:00 - 3:15 | The Variant Callers    |Hunter Hendrix, Isa Orr-Tokle, 
 Wed 12/1 | 3:15 - 3:30 | Team ZCC | Zoe Kim, Curis Ahn, Cynthia Lo | Using DeepVariant on CHM13 and Comparing its Efficiency and Accuracy to GATK
 Wed 12/1 | 3:30 - 3:45 | Team RNA  | Maxine Gong, Yilin Chen | Impact of T2T genome assembly on RNA-seq alignment results
 |||||
-Mon 12/6 | 3:00 - 3:15 | Flux  | Victor Wen | Cloud cost analsis with AnVIL on Galaxy
+Mon 12/6 | 3:00 - 3:15 | Flux  | Victor Wen | Cloud cost analysis with AnVIL on Galaxy
 Mon 12/6 | 3:15 - 3:30 | Team Gary | Gary Yang | Impact of CHM13 on SV calling with short reads with Parliament2
-Mon 12/16 | 3:30 - 3:45 | Team Cokie | Cokie Parker | Recombination rates across T2T
+Mon 12/6 | 3:30 - 3:45 | Team Cokie | Cokie Parker | Recombination rates across T2T
 
 
 ## Recommended outline for your talk (~1 minute per slide):
