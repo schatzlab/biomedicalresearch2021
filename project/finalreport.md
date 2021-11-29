@@ -1,3 +1,4 @@
+## Final Report
 Due Date: Monday, December 20, 2021 @ 11:59pm 
 
 Each team should submit a PDF of your final project proposal (6 to 9 pages) to GradeScope by 11:59pm on Monday December 20. No late days can be used as grades must be submitted to the registrar on Tuesday!
